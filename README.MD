@@ -1,6 +1,6 @@
 <h3>Things I code with</h3>
 <p>
-  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=000&labelColor=fff" /><br>
+  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=14b48f&labelColor=fff" /><br>
   <img alt="VueJS" src="https://img.shields.io/badge/PHP-35495E?style=for-the-badge&logo=php&logoColor=000&labelColor=fff" /> <br>
   <img alt="VueJS" src="https://img.shields.io/badge/LARAVEL-35495E?style=for-the-badge&logo=laravel&logoColor=000&labelColor=fff" /> <br> 
   <img alt="VueJS" src="https://img.shields.io/badge/LIVEWIRE-35495E?style=for-the-badge&logo=livewire&logoColor=000&labelColor=fff" />   <br>
